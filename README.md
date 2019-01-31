@@ -1,3 +1,8 @@
 # hello-world
-Just another repository 
-Soy Yamilet Navarrete Quevedo estudiante del cetis44.
+-----------
+-----------
+Hola mundo de los serers humanos 
+Soy una estudiante.
+------------
+------------
+Saludos Cordiales 
