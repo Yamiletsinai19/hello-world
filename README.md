@@ -1,7 +1,7 @@
 # hello-world
 -----------
 -----------
-Hola mundo de los serers humanos 
+Hola mundo de los seres humanos 
 Soy una estudiante.
 ------------
 ------------
